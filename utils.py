@@ -13,3 +13,5 @@ def is_prime(n):
             return False
     return True
 
+def is_power_of_5(num):
+    return num > 0 and ((num & (num - 1)) == 0) and (num % 5 == 0)
