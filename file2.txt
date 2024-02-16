@@ -1,3 +1,4 @@
 Content of file 2
 Additional content of file 2
 Additional content of file 2
+Even more additional content of file 2
